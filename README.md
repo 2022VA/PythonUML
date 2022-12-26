@@ -14,6 +14,8 @@ python turtle_star.py 99
 
 python turtle_func.py 500
 
+![Funkcija](2.2.Turtle/func_500.png)
+
 
 
 ## PD4: 2.4.Solar - Saules sistēma
@@ -21,9 +23,12 @@ python turtle_func.py 500
 
 python solar_system_g02_pd4.py
 
+![Saules sistēma](2.4.Solar/solar2.png)
 
 
 ## PD5: 3.2 Animals - Zivis un Lāči
 
 
 python sim1.py
+
+![Dzīvnieki](3.2 Animals/scr/finals.png)

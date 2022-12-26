@@ -17,3 +17,10 @@ python turtle_func.py 500
 
 
 python solar_system_g02_pd4.py
+
+
+
+## PD5: 3.2 Animals - Zivis un Lāči
+
+
+python sim1.py

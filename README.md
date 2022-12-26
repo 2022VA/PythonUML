@@ -7,7 +7,9 @@ Te faili priekš Python un OOP kursa
 
 
 python turtle_star.py 99
-https://github.com/2022VA/PythonUML/blob/8917dce9636fe9a9f4ad3d83e586d6649cbb240b/2.2.Turtle/99-staru.png
+
+![99 staru zvaigzne](2.2.Turtle/99-staru.png)
+
 
 
 python turtle_func.py 500

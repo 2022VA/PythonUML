@@ -31,4 +31,6 @@ python solar_system_g02_pd4.py
 
 python sim1.py
 
-![Dzīvnieki](3.2 Animals/scr/finals.png)
+![Dzīvnieki](3.2%20Animals/scr/finals.png)
+
+

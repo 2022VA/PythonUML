@@ -34,3 +34,11 @@ python sim1.py
 ![Dzīvnieki](3.2%20Animals/scr/finals.png)
 
 
+## PD6: 3.4 Draw - Zīmēšana
+
+
+python drawG02.py
+
+![Draw](3.4%20Draw/scr/attels.png)
+
+

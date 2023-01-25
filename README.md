@@ -42,3 +42,15 @@ python drawG02.py
 ![Draw](3.4%20Draw/scr/attels.png)
 
 
+
+
+## 5.1 Drone
+
+
+python droneinvasion.py
+
+![Drone](5.1%20Drone/scr/spele.png)
+
+
+
+
